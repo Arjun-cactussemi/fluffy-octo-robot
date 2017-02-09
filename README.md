@@ -1,2 +1,1 @@
-# fluffy-octo-robot
-a repo to experiment with images
+Testing what would happen if you have 2 readmes, but different file extensions.
